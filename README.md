@@ -2,7 +2,7 @@
 
 I'm a freelance full-stack engineer based in Wroclaw, Poland 🇵🇱
 
-If you need a reliable developer to build your product, I'm here to help.
+I help founders build reliable, production-ready web applications with React and Next.js
 
 -------
 

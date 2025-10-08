@@ -10,18 +10,19 @@ I help founders build reliable, production-ready web applications with React and
 
 The tech stack I use for my personal and client work:
 
-[Next.js](https://nextjs.org) &middot;
 [React](https://react.dev) &middot;
-[React Query](https://tanstack.com/query/latest) &middot;
-[React Router](https://reactrouter.com) &middot;
+[Next.js](https://nextjs.org) &middot;
+[TanStack Start](https://tanstack.com/start/latest) &middot;
+[TanStack Query](https://tanstack.com/query/latest) &middot;
 [Typescript](https://www.typescriptlang.org) &middot;
 [Javascript](https://javascript.info) &middot;
 [Node](https://nodejs.org) &middot;
 [Express](https://expressjs.com) &middot;
 [Nest](https://nestjs.com) &middot;
 [Better Auth](https://www.better-auth.com) &middot;
-[Supabase](https://supabase.com) &middot;
 [Postgres](https://www.postgresql.org) &middot;
+[Prisma](https://www.prisma.io) &middot;
+[Supabase](https://supabase.com) &middot;
 [Docker](https://www.docker.com) &middot;
 [Turborepo](https://turbo.build) &middot;
 [shadcn/ui](https://ui.shadcn.com) &middot;

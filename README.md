@@ -8,7 +8,7 @@ I specialize in building reliable, production-ready web applications with React 
 
 #### 🧰 Tech Stack
 
-The tech stack I use for my personal and client work:
+The tech stack I use on a daily basis:
 
 [React](https://react.dev) &middot;
 [Next.js](https://nextjs.org) &middot;

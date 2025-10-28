@@ -1,8 +1,8 @@
 ## 👋 Hey, I'm Andrei!
 
-I'm a freelance full-stack engineer based in Wroclaw, Poland 🇵🇱
+I'm a full-stack engineer based in Wroclaw, Poland 🇵🇱
 
-I help founders build reliable, production-ready web applications with React and Next.js
+I specialize in building reliable, production-ready web applications with React and Next.js
 
 -------
 

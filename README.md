@@ -1,36 +1,10 @@
 ## 👋 Hey, I'm Andrei!
 
-I'm a full-stack software engineer based in Wroclaw, Poland 🇵🇱
+I'm a senior software engineer based in Wroclaw, Poland 🇵🇱
 
-I specialize in building reliable, production-ready web applications with React and Next.js
+I specialize in building reliable, production-ready web applications with React, Next.js and TanStack.
 
 If you need a reliable developer to join your team, I'm ready to dive in.
-
--------
-
-#### 🧰 Tech Stack
-
-The tech stack I use on a daily basis:
-
-[React](https://react.dev) &middot;
-[Next.js](https://nextjs.org) &middot;
-[TanStack Start](https://tanstack.com/start/latest) &middot;
-[TanStack Query](https://tanstack.com/query/latest) &middot;
-[Typescript](https://www.typescriptlang.org) &middot;
-[Javascript](https://javascript.info) &middot;
-[Node](https://nodejs.org) &middot;
-[Express](https://expressjs.com) &middot;
-[Nest](https://nestjs.com) &middot;
-[Better Auth](https://www.better-auth.com) &middot;
-[Postgres](https://www.postgresql.org) &middot;
-[Prisma](https://www.prisma.io) &middot;
-[Supabase](https://supabase.com) &middot;
-[Docker](https://www.docker.com) &middot;
-[Turborepo](https://turbo.build) &middot;
-[shadcn/ui](https://ui.shadcn.com) &middot;
-[Radix](https://www.radix-ui.com) &middot;
-[Tailwindcss](https://tailwindcss.com) &middot;
-[AI SDK](https://ai-sdk.dev)
 
 -------
 
@@ -49,9 +23,9 @@ These are my personal projects, both past and ongoing:
   
   <tbody>
     <tr>
-      <td>Project Y</td>
-      <td>🟢 Active</td>
-      <td>My new project that I work on in stealth mode for now</td>
+      <td><a href="https://github.com/ahudovich/analytics">Analytics</a></td>
+      <td>🟡 In development</td>
+      <td>Open-source product and web analytics</td>
     </tr>
     <tr>
       <td><a href="https://listingcat.com">Listing Cat</a></td>

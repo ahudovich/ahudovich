@@ -2,8 +2,6 @@
 
 I'm a senior software engineer based in Wroclaw, Poland 🇵🇱
 
-I specialize in building reliable, production-ready web applications with React, Next.js and TanStack.
-
 If you need a reliable developer to join your team, I'm ready to dive in.
 
 -------

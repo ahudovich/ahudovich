@@ -21,9 +21,9 @@ These are my personal projects, both past and ongoing:
   
   <tbody>
     <tr>
-      <td><a href="https://github.com/ahudovich/analytics">Analytics</a></td>
+      <td><a href="https://github.com/minatohq/minato">Minato</a></td>
       <td>🟡 In development</td>
-      <td>Open-source product and web analytics</td>
+      <td>Open-source feedback management platform</td>
     </tr>
     <tr>
       <td><a href="https://listingcat.com">Listing Cat</a></td>

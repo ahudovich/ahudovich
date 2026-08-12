@@ -21,13 +21,13 @@ These are my personal projects, both past and ongoing:
   
   <tbody>
     <tr>
-      <td><a href="https://github.com/minatohq/minato">Minato</a></td>
-      <td>🟡 In development</td>
-      <td>Open-source feedback management platform</td>
+      <td>Minato</td>
+      <td>🟢 In development</td>
+      <td>Customer intelligence platform</td>
     </tr>
     <tr>
-      <td><a href="https://listingcat.com">Listing Cat</a></td>
-      <td>🟢 Active</td>
+      <td>Listing Cat</td>
+      <td>🔴 Discontinued</td>
       <td>Marketing database for startups and indie hackers</td>
     </tr>
     <tr>
